@@ -6,7 +6,7 @@ app = Flask(__name__)
 users = [
     {"id": 1, "name": "José", "lastname": "Cueva"},
     {"id": 2, "name": "Jhunior", "lastname": "Herrera"},
-    {"id": 3, "name": "Sthephany", "lastname": "Toribio"},
+    {"id": 3, "name": "Alexandra", "lastname": "Lima"},
     {"id": 4, "name": "Nardy", "lastname": "Condori"}
 ]
 
